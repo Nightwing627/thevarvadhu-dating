@@ -1,0 +1,41 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-06-08 01:32:52 --> 404 Page Not Found: App-adstxt/index
+ERROR - 2021-06-08 01:32:53 --> 404 Page Not Found: App-adstxt/index
+ERROR - 2021-06-08 01:47:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-08 02:57:28 --> 404 Page Not Found: App-adstxt/index
+ERROR - 2021-06-08 03:59:33 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-08 05:58:00 --> 404 Page Not Found: Template/front
+ERROR - 2021-06-08 06:08:10 --> 404 Page Not Found: Template/front
+ERROR - 2021-06-08 07:07:30 --> 404 Page Not Found: Template/front
+ERROR - 2021-06-08 07:07:38 --> 404 Page Not Found: Template/front
+ERROR - 2021-06-08 07:12:43 --> 404 Page Not Found: Template/front
+ERROR - 2021-06-08 07:15:57 --> 404 Page Not Found: Template/front
+ERROR - 2021-06-08 07:20:17 --> 404 Page Not Found: Template/front
+ERROR - 2021-06-08 07:23:06 --> 404 Page Not Found: Template/front
+ERROR - 2021-06-08 07:26:36 --> 404 Page Not Found: Template/front
+ERROR - 2021-06-08 07:27:01 --> 404 Page Not Found: Template/front
+ERROR - 2021-06-08 07:28:36 --> 404 Page Not Found: Uploads/profile_image
+ERROR - 2021-06-08 07:28:37 --> 404 Page Not Found: Template/front
+ERROR - 2021-06-08 07:28:39 --> 404 Page Not Found: Uploads/profile_image
+ERROR - 2021-06-08 07:28:49 --> 404 Page Not Found: Template/front
+ERROR - 2021-06-08 07:32:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-08 09:10:32 --> 404 Page Not Found: Template/front
+ERROR - 2021-06-08 10:26:28 --> 404 Page Not Found: Env/index
+ERROR - 2021-06-08 10:27:23 --> 404 Page Not Found: Js/ckfinder
+ERROR - 2021-06-08 10:27:23 --> 404 Page Not Found: Ckfinder/core
+ERROR - 2021-06-08 11:40:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-08 16:03:36 --> Severity: error --> Exception: Too few arguments to function Home::reject_interest(), 0 passed in /var/www/fastuser/data/www/thevarvadhu.com/system/core/CodeIgniter.php on line 532 and exactly 1 expected /var/www/fastuser/data/www/thevarvadhu.com/application/controllers/Home.php 1101
+ERROR - 2021-06-08 15:34:40 --> 404 Page Not Found: Template/front
+ERROR - 2021-06-08 18:16:04 --> 404 Page Not Found: App-adstxt/index
+ERROR - 2021-06-08 19:00:51 --> 404 Page Not Found: Adstxt/index
+ERROR - 2021-06-08 19:00:51 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-08 20:54:31 --> 404 Page Not Found: Template/front
+ERROR - 2021-06-08 21:02:53 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-08 21:49:56 --> 404 Page Not Found: Home/index.aspx
+ERROR - 2021-06-08 22:07:18 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2021-06-08 22:44:31 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-08 22:48:41 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-08 22:57:31 --> 404 Page Not Found: App-adstxt/index
+ERROR - 2021-06-08 23:08:23 --> 404 Page Not Found: App-adstxt/index
+ERROR - 2021-06-08 23:08:24 --> 404 Page Not Found: App-adstxt/index

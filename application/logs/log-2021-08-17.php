@@ -1,0 +1,157 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-08-17 00:09:01 --> 404 Page Not Found: App-adstxt/index
+ERROR - 2021-08-17 00:09:02 --> 404 Page Not Found: App-adstxt/index
+ERROR - 2021-08-17 00:57:45 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-17 01:18:32 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-17 01:31:21 --> 404 Page Not Found: Adstxt/index
+ERROR - 2021-08-17 01:43:22 --> 404 Page Not Found: Old-indexphp/index
+ERROR - 2021-08-17 01:43:36 --> 404 Page Not Found: Wp-loadphp/index
+ERROR - 2021-08-17 01:45:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-17 02:21:40 --> 404 Page Not Found: App-adstxt/index
+ERROR - 2021-08-17 03:17:37 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2021-08-17 03:17:37 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-17 03:25:31 --> 404 Page Not Found: Template/front
+ERROR - 2021-08-17 04:05:59 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-17 04:21:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-17 05:09:09 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-17 05:09:09 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-17 05:18:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-17 08:18:31 --> Severity: error --> Exception: Too few arguments to function Home::get_dropdown_by_id_sub_caste(), 2 passed in /var/www/fastuser/data/www/thevarvadhu.com/system/core/CodeIgniter.php on line 532 and at least 3 expected /var/www/fastuser/data/www/thevarvadhu.com/application/controllers/Home.php 5093
+ERROR - 2021-08-17 08:18:31 --> Severity: error --> Exception: Too few arguments to function Home::get_dropdown_by_id_caste(), 2 passed in /var/www/fastuser/data/www/thevarvadhu.com/system/core/CodeIgniter.php on line 532 and at least 3 expected /var/www/fastuser/data/www/thevarvadhu.com/application/controllers/Home.php 5075
+ERROR - 2021-08-17 08:18:45 --> Severity: error --> Exception: Too few arguments to function Home::get_dropdown_by_id_sub_caste(), 2 passed in /var/www/fastuser/data/www/thevarvadhu.com/system/core/CodeIgniter.php on line 532 and at least 3 expected /var/www/fastuser/data/www/thevarvadhu.com/application/controllers/Home.php 5093
+ERROR - 2021-08-17 08:18:45 --> Severity: error --> Exception: Too few arguments to function Home::get_dropdown_by_id_caste(), 2 passed in /var/www/fastuser/data/www/thevarvadhu.com/system/core/CodeIgniter.php on line 532 and at least 3 expected /var/www/fastuser/data/www/thevarvadhu.com/application/controllers/Home.php 5075
+ERROR - 2021-08-17 05:47:26 --> 404 Page Not Found: Template/front
+ERROR - 2021-08-17 06:54:04 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2021-08-17 06:54:04 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2021-08-17 06:54:05 --> 404 Page Not Found: Blog/wp-includes
+ERROR - 2021-08-17 06:54:05 --> 404 Page Not Found: Web/wp-includes
+ERROR - 2021-08-17 06:54:05 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2021-08-17 06:54:05 --> 404 Page Not Found: Website/wp-includes
+ERROR - 2021-08-17 06:54:06 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2021-08-17 06:54:06 --> 404 Page Not Found: News/wp-includes
+ERROR - 2021-08-17 06:54:06 --> 404 Page Not Found: 2018/wp-includes
+ERROR - 2021-08-17 06:54:06 --> 404 Page Not Found: 2019/wp-includes
+ERROR - 2021-08-17 06:54:06 --> 404 Page Not Found: Shop/wp-includes
+ERROR - 2021-08-17 06:54:06 --> 404 Page Not Found: Wp1/wp-includes
+ERROR - 2021-08-17 06:54:06 --> 404 Page Not Found: Test/wp-includes
+ERROR - 2021-08-17 06:54:06 --> 404 Page Not Found: Media/wp-includes
+ERROR - 2021-08-17 06:54:07 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2021-08-17 06:54:07 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2021-08-17 06:54:07 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2021-08-17 06:54:07 --> 404 Page Not Found: Sito/wp-includes
+ERROR - 2021-08-17 07:25:56 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-17 07:27:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-17 07:33:46 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-17 07:42:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-17 11:14:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-17 11:53:18 --> 404 Page Not Found: Git/config
+ERROR - 2021-08-17 11:53:21 --> 404 Page Not Found: Git/config
+ERROR - 2021-08-17 11:53:23 --> 404 Page Not Found: Git/config
+ERROR - 2021-08-17 11:53:23 --> 404 Page Not Found: Git/config
+ERROR - 2021-08-17 11:54:11 --> 404 Page Not Found: Git/config
+ERROR - 2021-08-17 11:54:12 --> 404 Page Not Found: Git/config
+ERROR - 2021-08-17 12:40:42 --> 404 Page Not Found: Template/front
+ERROR - 2021-08-17 12:41:24 --> 404 Page Not Found: Template/front
+ERROR - 2021-08-17 12:55:51 --> 404 Page Not Found: Template/front
+ERROR - 2021-08-17 13:13:24 --> 404 Page Not Found: Template/front
+ERROR - 2021-08-17 13:14:25 --> 404 Page Not Found: Template/front
+ERROR - 2021-08-17 13:14:30 --> 404 Page Not Found: Template/front
+ERROR - 2021-08-17 13:31:48 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-17 14:15:10 --> 404 Page Not Found: Template/front
+ERROR - 2021-08-17 14:17:15 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-17 14:17:28 --> 404 Page Not Found: Template/front
+ERROR - 2021-08-17 14:18:36 --> 404 Page Not Found: Template/front
+ERROR - 2021-08-17 14:20:00 --> 404 Page Not Found: Template/front
+ERROR - 2021-08-17 14:20:31 --> 404 Page Not Found: Template/front
+ERROR - 2021-08-17 14:20:41 --> 404 Page Not Found: Template/front
+ERROR - 2021-08-17 14:20:58 --> 404 Page Not Found: Template/front
+ERROR - 2021-08-17 14:21:11 --> 404 Page Not Found: Template/front
+ERROR - 2021-08-17 17:21:11 --> Severity: error --> Exception: Too few arguments to function Home::get_dropdown_by_id_caste(), 2 passed in /var/www/fastuser/data/www/thevarvadhu.com/system/core/CodeIgniter.php on line 532 and at least 3 expected /var/www/fastuser/data/www/thevarvadhu.com/application/controllers/Home.php 5075
+ERROR - 2021-08-17 17:21:11 --> Severity: error --> Exception: Too few arguments to function Home::get_dropdown_by_id_sub_caste(), 2 passed in /var/www/fastuser/data/www/thevarvadhu.com/system/core/CodeIgniter.php on line 532 and at least 3 expected /var/www/fastuser/data/www/thevarvadhu.com/application/controllers/Home.php 5093
+ERROR - 2021-08-17 17:21:12 --> Severity: Warning --> A non-numeric value encountered /var/www/fastuser/data/www/thevarvadhu.com/application/controllers/Home.php 361
+ERROR - 2021-08-17 14:21:33 --> 404 Page Not Found: Template/front
+ERROR - 2021-08-17 17:21:33 --> Severity: Warning --> A non-numeric value encountered /var/www/fastuser/data/www/thevarvadhu.com/application/controllers/Home.php 361
+ERROR - 2021-08-17 14:22:29 --> 404 Page Not Found: Template/front
+ERROR - 2021-08-17 14:22:31 --> 404 Page Not Found: Template/front
+ERROR - 2021-08-17 14:22:39 --> 404 Page Not Found: Template/front
+ERROR - 2021-08-17 14:22:40 --> 404 Page Not Found: Template/front
+ERROR - 2021-08-17 15:14:24 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-17 15:14:24 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-17 15:22:51 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-17 15:29:19 --> 404 Page Not Found: Template/front
+ERROR - 2021-08-17 16:40:19 --> 404 Page Not Found: Template/front
+ERROR - 2021-08-17 16:53:40 --> 404 Page Not Found: Wordpress/wp-admin
+ERROR - 2021-08-17 20:03:23 --> Severity: error --> Exception: Too few arguments to function Home::get_dropdown_by_id_caste(), 2 passed in /var/www/fastuser/data/www/thevarvadhu.com/system/core/CodeIgniter.php on line 532 and at least 3 expected /var/www/fastuser/data/www/thevarvadhu.com/application/controllers/Home.php 5075
+ERROR - 2021-08-17 20:03:24 --> Severity: error --> Exception: Too few arguments to function Home::get_dropdown_by_id_sub_caste(), 2 passed in /var/www/fastuser/data/www/thevarvadhu.com/system/core/CodeIgniter.php on line 532 and at least 3 expected /var/www/fastuser/data/www/thevarvadhu.com/application/controllers/Home.php 5093
+ERROR - 2021-08-17 20:04:05 --> Severity: error --> Exception: Too few arguments to function Home::get_dropdown_by_id_sub_caste(), 2 passed in /var/www/fastuser/data/www/thevarvadhu.com/system/core/CodeIgniter.php on line 532 and at least 3 expected /var/www/fastuser/data/www/thevarvadhu.com/application/controllers/Home.php 5093
+ERROR - 2021-08-17 20:04:06 --> Severity: error --> Exception: Too few arguments to function Home::get_dropdown_by_id_caste(), 2 passed in /var/www/fastuser/data/www/thevarvadhu.com/system/core/CodeIgniter.php on line 532 and at least 3 expected /var/www/fastuser/data/www/thevarvadhu.com/application/controllers/Home.php 5075
+ERROR - 2021-08-17 17:55:51 --> 404 Page Not Found: App-adstxt/index
+ERROR - 2021-08-17 18:11:17 --> 404 Page Not Found: App-adstxt/index
+ERROR - 2021-08-17 18:25:35 --> 404 Page Not Found: Template/front
+ERROR - 2021-08-17 18:25:54 --> 404 Page Not Found: Template/front
+ERROR - 2021-08-17 18:26:18 --> 404 Page Not Found: Template/front
+ERROR - 2021-08-17 18:30:19 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-08-17 18:58:15 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-17 19:02:59 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-17 19:11:59 --> 404 Page Not Found: Assets/jquery-file-upload
+ERROR - 2021-08-17 19:18:40 --> 404 Page Not Found: Wp-json/wp
+ERROR - 2021-08-17 19:42:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-17 19:48:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-17 21:02:13 --> 404 Page Not Found: Template/front
+ERROR - 2021-08-17 21:02:39 --> 404 Page Not Found: Template/front
+ERROR - 2021-08-17 21:02:45 --> 404 Page Not Found: Template/front
+ERROR - 2021-08-17 21:02:55 --> 404 Page Not Found: Template/front
+ERROR - 2021-08-17 21:04:32 --> 404 Page Not Found: Template/front
+ERROR - 2021-08-17 21:05:09 --> 404 Page Not Found: Template/front
+ERROR - 2021-08-17 21:06:17 --> 404 Page Not Found: Template/front
+ERROR - 2021-08-17 21:06:57 --> 404 Page Not Found: Template/front
+ERROR - 2021-08-17 21:07:12 --> 404 Page Not Found: Template/front
+ERROR - 2021-08-17 21:07:16 --> 404 Page Not Found: Template/front
+ERROR - 2021-08-17 21:07:38 --> 404 Page Not Found: Template/front
+ERROR - 2021-08-17 21:08:07 --> 404 Page Not Found: Template/front
+ERROR - 2021-08-17 21:09:06 --> 404 Page Not Found: Template/front
+ERROR - 2021-08-17 21:09:19 --> 404 Page Not Found: Template/front
+ERROR - 2021-08-17 21:09:43 --> 404 Page Not Found: Template/front
+ERROR - 2021-08-17 21:10:25 --> 404 Page Not Found: Template/front
+ERROR - 2021-08-17 21:10:45 --> 404 Page Not Found: Template/front
+ERROR - 2021-08-17 21:10:53 --> 404 Page Not Found: Template/front
+ERROR - 2021-08-17 21:11:08 --> 404 Page Not Found: Template/front
+ERROR - 2021-08-17 21:11:17 --> 404 Page Not Found: Template/front
+ERROR - 2021-08-17 21:12:26 --> 404 Page Not Found: Template/front
+ERROR - 2021-08-17 21:14:07 --> 404 Page Not Found: Template/front
+ERROR - 2021-08-17 21:14:33 --> 404 Page Not Found: Template/front
+ERROR - 2021-08-17 21:14:39 --> 404 Page Not Found: Template/front
+ERROR - 2021-08-17 21:15:03 --> 404 Page Not Found: Template/front
+ERROR - 2021-08-17 21:15:08 --> 404 Page Not Found: Template/front
+ERROR - 2021-08-17 21:15:32 --> 404 Page Not Found: Template/front
+ERROR - 2021-08-17 21:20:43 --> 404 Page Not Found: Template/front
+ERROR - 2021-08-17 21:21:39 --> 404 Page Not Found: Template/front
+ERROR - 2021-08-17 21:21:49 --> 404 Page Not Found: Template/front
+ERROR - 2021-08-17 21:25:01 --> 404 Page Not Found: Template/front
+ERROR - 2021-08-17 21:25:12 --> 404 Page Not Found: Template/front
+ERROR - 2021-08-17 21:25:22 --> 404 Page Not Found: Template/front
+ERROR - 2021-08-17 21:25:30 --> 404 Page Not Found: Template/front
+ERROR - 2021-08-17 21:48:56 --> 404 Page Not Found: Template/front
+ERROR - 2021-08-17 21:49:32 --> 404 Page Not Found: Template/front
+ERROR - 2021-08-17 21:53:25 --> 404 Page Not Found: Adstxt/index
+ERROR - 2021-08-17 21:56:37 --> 404 Page Not Found: Template/front
+ERROR - 2021-08-17 22:00:32 --> 404 Page Not Found: Template/front
+ERROR - 2021-08-17 22:00:36 --> 404 Page Not Found: Uploads/premium_plans_image
+ERROR - 2021-08-17 22:00:36 --> 404 Page Not Found: Template/front
+ERROR - 2021-08-17 22:00:47 --> 404 Page Not Found: Template/front
+ERROR - 2021-08-17 22:00:52 --> 404 Page Not Found: Template/front
+ERROR - 2021-08-17 22:01:07 --> 404 Page Not Found: Template/front
+ERROR - 2021-08-17 22:01:21 --> 404 Page Not Found: Uploads/story_video
+ERROR - 2021-08-17 22:01:21 --> 404 Page Not Found: Template/front
+ERROR - 2021-08-17 22:01:26 --> 404 Page Not Found: Uploads/premium_plans_image
+ERROR - 2021-08-17 22:01:26 --> 404 Page Not Found: Template/front
+ERROR - 2021-08-17 22:01:28 --> 404 Page Not Found: Template/front
+ERROR - 2021-08-17 22:01:30 --> 404 Page Not Found: Template/front
+ERROR - 2021-08-17 22:10:29 --> 404 Page Not Found: Uploads/premium_plans_image
+ERROR - 2021-08-17 22:10:29 --> 404 Page Not Found: Template/front
+ERROR - 2021-08-17 22:29:40 --> 404 Page Not Found: Template/back
+ERROR - 2021-08-17 22:49:54 --> 404 Page Not Found: Template/front
+ERROR - 2021-08-17 22:49:59 --> 404 Page Not Found: Template/front
+ERROR - 2021-08-17 22:50:01 --> 404 Page Not Found: Template/front
+ERROR - 2021-08-17 23:34:16 --> 404 Page Not Found: Robotstxt/index

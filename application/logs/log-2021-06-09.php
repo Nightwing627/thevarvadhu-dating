@@ -1,0 +1,49 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-06-09 00:19:41 --> 404 Page Not Found: Adminphp/index
+ERROR - 2021-06-09 00:19:48 --> 404 Page Not Found: Wp-loadphp/index
+ERROR - 2021-06-09 00:20:14 --> 404 Page Not Found: Old-indexphp/index
+ERROR - 2021-06-09 02:24:51 --> 404 Page Not Found: Info/index
+ERROR - 2021-06-09 02:24:51 --> 404 Page Not Found: Api/v1
+ERROR - 2021-06-09 02:24:51 --> 404 Page Not Found: Git/config
+ERROR - 2021-06-09 02:24:51 --> 404 Page Not Found: Env/index
+ERROR - 2021-06-09 02:24:51 --> 404 Page Not Found: Graphql/index
+ERROR - 2021-06-09 02:24:51 --> 404 Page Not Found: V2/_catalog
+ERROR - 2021-06-09 02:32:31 --> 404 Page Not Found: Api/v1
+ERROR - 2021-06-09 02:32:31 --> 404 Page Not Found: Env/index
+ERROR - 2021-06-09 02:32:31 --> 404 Page Not Found: Info/index
+ERROR - 2021-06-09 02:32:31 --> 404 Page Not Found: Graphql/index
+ERROR - 2021-06-09 02:32:31 --> 404 Page Not Found: V2/_catalog
+ERROR - 2021-06-09 02:32:31 --> 404 Page Not Found: Git/config
+ERROR - 2021-06-09 03:04:48 --> 404 Page Not Found: Template/front
+ERROR - 2021-06-09 06:04:48 --> Severity: error --> Exception: Too few arguments to function Home::get_dropdown_by_id_caste(), 2 passed in /var/www/fastuser/data/www/thevarvadhu.com/system/core/CodeIgniter.php on line 532 and at least 3 expected /var/www/fastuser/data/www/thevarvadhu.com/application/controllers/Home.php 5016
+ERROR - 2021-06-09 06:04:48 --> Severity: error --> Exception: Too few arguments to function Home::get_dropdown_by_id_sub_caste(), 2 passed in /var/www/fastuser/data/www/thevarvadhu.com/system/core/CodeIgniter.php on line 532 and at least 3 expected /var/www/fastuser/data/www/thevarvadhu.com/application/controllers/Home.php 5034
+ERROR - 2021-06-09 04:25:01 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-06-09 04:25:01 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-06-09 04:25:01 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-06-09 04:42:07 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-09 07:14:56 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-09 07:33:35 --> 404 Page Not Found: Adstxt/index
+ERROR - 2021-06-09 07:36:33 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-09 09:06:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-09 13:07:24 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-09 14:08:59 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-09 14:19:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-09 18:09:28 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-09 18:09:28 --> 404 Page Not Found: Gallery/index
+ERROR - 2021-06-09 18:51:18 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-06-09 18:51:20 --> 404 Page Not Found: Wordpress/wp-login.php
+ERROR - 2021-06-09 18:51:22 --> 404 Page Not Found: Blog/wp-login.php
+ERROR - 2021-06-09 18:51:23 --> 404 Page Not Found: Wp/wp-login.php
+ERROR - 2021-06-09 18:58:38 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-09 19:00:56 --> 404 Page Not Found: Adstxt/index
+ERROR - 2021-06-09 19:14:34 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-06-09 21:12:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-09 21:19:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-09 22:11:53 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-09 22:11:54 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2021-06-09 22:11:55 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2021-06-09 22:42:25 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-09 22:57:50 --> 404 Page Not Found: App-adstxt/index
+ERROR - 2021-06-09 23:30:25 --> 404 Page Not Found: App-adstxt/index
+ERROR - 2021-06-09 23:30:26 --> 404 Page Not Found: App-adstxt/index

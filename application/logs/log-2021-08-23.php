@@ -1,0 +1,8 @@
+ERROR - 2021-08-23 07:06:40 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND profile_image not like '%default_image.jpg%'' at line 1 - Invalid query: SELECT * FROM member WHERE  1 > 0  AND gender=2 AND TIMESTAMPDIFF(YEAR, from_unixtime(date_of_birth), NOW())>=34 AND TIMESTAMPDIFF(YEAR, from_unixtime(date_of_birth), NOW())<= AND profile_image not like '%default_image.jpg%'
+ERROR - 2021-08-23 07:06:40 --> Severity: error --> Exception: Call to a member function result() on boolean C:\xampp\htdocs\project\application\controllers\Home.php 5504
+ERROR - 2021-08-23 07:11:10 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND profile_image not like '%default_image.jpg%'' at line 1 - Invalid query: SELECT * FROM member WHERE  1 > 0  AND gender=2 AND TIMESTAMPDIFF(YEAR, from_unixtime(date_of_birth), NOW())>=34 AND TIMESTAMPDIFF(YEAR, from_unixtime(date_of_birth), NOW())<= AND profile_image not like '%default_image.jpg%'
+ERROR - 2021-08-23 07:11:10 --> Severity: error --> Exception: Call to a member function result() on boolean C:\xampp\htdocs\project\application\controllers\Home.php 5504
+ERROR - 2021-08-23 07:28:32 --> Severity: Warning --> Illegal string offset 'area' C:\xampp\htdocs\project\application\views\back\members\edit_info.php 150
+ERROR - 2021-08-23 04:00:23 --> 404 Page Not Found: Uploads/premium_plans_image
+ERROR - 2021-08-23 10:57:39 --> 404 Page Not Found: Uploads/premium_plans_image
+ERROR - 2021-08-23 21:05:35 --> 404 Page Not Found: Uploads/premium_plans_image

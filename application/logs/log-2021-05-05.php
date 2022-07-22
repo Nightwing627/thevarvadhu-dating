@@ -1,0 +1,31 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-05-05 22:52:00 --> 404 Page Not Found: Template/front
+ERROR - 2021-05-05 22:52:44 --> 404 Page Not Found: Template/front
+ERROR - 2021-05-05 22:52:48 --> 404 Page Not Found: Template/front
+ERROR - 2021-05-05 22:52:55 --> 404 Page Not Found: Template/front
+ERROR - 2021-05-05 22:55:36 --> 404 Page Not Found: Template/front
+ERROR - 2021-05-05 23:06:09 --> 404 Page Not Found: Template/front
+ERROR - 2021-05-05 23:13:14 --> 404 Page Not Found: Template/front
+ERROR - 2021-05-05 23:13:17 --> 404 Page Not Found: Template/front
+ERROR - 2021-05-05 23:13:39 --> 404 Page Not Found: Template/front
+ERROR - 2021-05-05 23:14:06 --> 404 Page Not Found: Template/front
+ERROR - 2021-05-05 23:14:19 --> 404 Page Not Found: Template/front
+ERROR - 2021-05-05 23:14:44 --> 404 Page Not Found: Template/front
+ERROR - 2021-05-05 23:14:58 --> 404 Page Not Found: Template/front
+ERROR - 2021-05-05 23:15:03 --> 404 Page Not Found: Template/front
+ERROR - 2021-05-05 23:15:06 --> 404 Page Not Found: Template/front
+ERROR - 2021-05-05 23:15:33 --> 404 Page Not Found: Template/front
+ERROR - 2021-05-05 23:15:38 --> 404 Page Not Found: Template/front
+ERROR - 2021-05-05 23:15:51 --> 404 Page Not Found: Template/front
+ERROR - 2021-05-05 23:16:27 --> 404 Page Not Found: Template/front
+ERROR - 2021-05-05 23:37:53 --> 404 Page Not Found: Template/front
+ERROR - 2021-05-05 23:37:53 --> 404 Page Not Found: Adstxt/index
+ERROR - 2021-05-05 23:37:54 --> 404 Page Not Found: Adstxt/index
+ERROR - 2021-05-05 23:38:07 --> 404 Page Not Found: Template/front
+ERROR - 2021-05-05 23:38:16 --> 404 Page Not Found: Template/back
+ERROR - 2021-05-05 23:38:21 --> 404 Page Not Found: Template/back
+ERROR - 2021-05-05 23:38:22 --> 404 Page Not Found: Uploads/profile_image
+ERROR - 2021-05-05 23:39:47 --> 404 Page Not Found: Template/front
+ERROR - 2021-05-05 23:48:29 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-05 23:48:29 --> 404 Page Not Found: Robotstxt/index
