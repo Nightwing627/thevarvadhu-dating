@@ -1,0 +1,42 @@
+Workana.
+ryonbong7-151
+
+- thevarvadhu(CI)
+---- site info
+https://www.thevarvadhu.com/
+
+    test user: TVV1601297, TVV7908276
+    pass: any code
+fast panel
+hostinghills.com
+    url: https://134.209.185.64:8888/
+    user: mariyabohden@gmail.com
+    pass: M=r^yFjlRrxHM8
+phpmyadmin
+    user: thevarvadhu__usr
+    pass: aH99G4PQ9W9JgfFK
+admin info
+    user: thevarvadhu@gmail.com
+    pass: ravi@123
+Test user : TVV2062301, 123123123 (premium)
+                  TVV6757299, 123123123(free)
+
+hacking url: admin/mini_update/2/index
+
+---- issues
+1. login - don't work with password
+2. search - don't get search result/ajax loading running
+3. religion/caste - home page: caste don't change when religion change
+4. data upate - admin/user update: some info doesn't update
+5.admin member-when update, image validate remove
+
+-Wordpress
+https://gmstemplate.wpengine.com
+-- admin info
+username - chini9564
+pwd - w&s5T%CqjpDZktQ)
+-- issues
+zdparrot@outlook.com
+
+
+
